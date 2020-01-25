@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的午休质量记录工具
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/MyLunchBreakRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+不知道你是否也有午休的习惯，而午休的睡眠质量好坏，直接影响到我们下午的工作效率和精神状态。
+这款应用就是帮助你管理你的睡眠质量和安排，你可以记录每次午休选择的睡眠时间，和睡眠地点。你还可以关注当时
+睡眠周围的环境，是否安静和嘈杂等影响因素。还可以记录每次睡眠结束后，醒来的精神状态和心情等信息，帮助你更好的
+了解自己的午休质量，让生活更加健康和高效。
 
-### Markdown
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们将第一时间为您解答。
 
-```markdown
-Syntax highlighted code block
+### 邮箱地址:  jichungan9498@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/MyLunchBreakRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
